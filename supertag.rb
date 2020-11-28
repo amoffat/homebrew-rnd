@@ -1,8 +1,8 @@
 class Supertag < Formula
   desc "Tag-based filesystem"
   homepage "https://amoffat.github.io/supertag/"
-  url "https://github.com/amoffat/supertag/archive/v0.1.0.tar.gz"
-  sha256 "fc498f2443a5590d7e10c427ca7281b9b626326c6014049c9960d258e259c078"
+  url "https://github.com/amoffat/supertag/archive/v0.1.1.tar.gz"
+  sha256 "75f595e40e5946a5177607aa58694360b945dd4427cec6d59def3d9317cccb17"
   license "AGPL-3.0-or-later"
 
   depends_on osxfuse: "3.11.2"
